@@ -1,4 +1,4 @@
-**Programas_Python**
+**Programas-Python**
 
 **Trilha de aprendizado de Ciência de Dados**
 
